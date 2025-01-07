@@ -1,0 +1,56 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 555;
+    padding: 0;
+    line-height: 1.5;
+}
+
+header {
+    background: #87309b;
+    color: #131212;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #831f6d;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #ffaa00;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #0056b3;
+}
+
+.experience-item {
+    margin-bottom: 20px;
+}
+*{
+    background-color: lightblue;
+}
